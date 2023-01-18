@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gregrw
 - 👀 I’m interested in ... Software engineering, bioinformatics, genetic sequencing, coding for social justice issues
-- 🌱 I’m currently learning ... Data Structures and Java
+- 🌱 I’m currently learning ... Object Oriented Software Development and Computer Systems concepts
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
